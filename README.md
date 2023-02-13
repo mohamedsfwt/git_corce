@@ -1,4 +1,4 @@
 # git_corce
-eI'm can
+I can
 
 ## project nots
